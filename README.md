@@ -1,4 +1,4 @@
-### Hi there 👋
+### i will be a developer 👋
 
 <!--
 **kdh12345/kdh12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
