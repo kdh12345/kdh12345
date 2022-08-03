@@ -1,4 +1,5 @@
 ### i will be a developer 👋
+### 1 day 1 commit ✨
 
 <!--
 **kdh12345/kdh12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
